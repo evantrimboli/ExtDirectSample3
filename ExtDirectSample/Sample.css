@@ -1,0 +1,48 @@
+﻿body{
+	font-family: helvetica,tahoma,verdana,sans-serif;
+	padding: 32px 20px 20px;
+	font-size: 13px;
+}
+
+p.description{
+	margin-bottom: 15px;
+}	
+
+.header{
+	font-size: large;
+	margin-bottom: 20px;
+}
+
+.subheader{
+	font-size: larger;
+	margin-bottom: 10px;
+	text-decoration: underline;
+}
+
+.icon-load{
+	background-image: url(icons/database.png) !important;
+}
+
+.icon-save{
+	background-image: url(icons/disk.png) !important;
+}
+
+.icon-add{
+	background-image: url(icons/add.png) !important;
+}
+
+.icon-remove{
+	background-image: url(icons/delete.png) !important;
+}
+
+.icon-upload{
+	background-image: url(icons/drive.png) !important;
+}
+
+.icon-reverse{
+	background-image: url(icons/arrow_redo.png) !important;
+}
+
+.icon-sum{
+	background-image: url(icons/sum.png) !important;
+}

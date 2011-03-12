@@ -1,0 +1,18 @@
+﻿CREATE TABLE Company(
+    Id INTEGER PRIMARY KEY,
+    Name VARCHAR(100) COLLATE NOCASE,
+    Employees INTEGER,
+    TurnOver REAL,
+    Started DATE
+);
+
+INSERT INTO Company VALUES (1, 'Pro Coders Inc.', 6, 103400.25, '2008-06-07');
+INSERT INTO Company VALUES (2, 'Ripped Gym', 13, 253637.92, '2004-11-03');
+INSERT INTO Company VALUES (3, 'Total Cleaning', 22, 127449.05, '2002-02-19');
+INSERT INTO Company VALUES (4, 'Smith Auto Mechanic', 9, 563341.00, '1997-08-14');
+INSERT INTO Company VALUES (5, 'Daily Fresh Bakery', 31, 786110.24, '2001-06-28');
+INSERT INTO Company VALUES (6, 'ABC Accounting', 17, 359188, '2007-03-03');
+INSERT INTO Company VALUES (7, 'Icecream Express', 26, 299342.96, '1986-04-08');
+INSERT INTO Company VALUES (8, 'Ezy Video Rental', 6, 167598.45, '2001-02-02');
+INSERT INTO Company VALUES (9, 'Greens Fruit Grocery', 8, 203552.19, '1984-04-15');
+INSERT INTO Company VALUES (10, 'Petrol Pit Stop', 12, 186400.78, '2002-05-19');

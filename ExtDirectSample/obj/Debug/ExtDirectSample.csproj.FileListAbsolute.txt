@@ -1,0 +1,10 @@
+D:\Real\ExtDirectSample\ExtDirectSample\bin\ExtDirectSample.dll
+D:\Real\ExtDirectSample\ExtDirectSample\bin\ExtDirectSample.pdb
+D:\Real\ExtDirectSample\ExtDirectSample\bin\Ext.Direct.dll
+D:\Real\ExtDirectSample\ExtDirectSample\bin\Newtonsoft.Json.dll
+D:\Real\ExtDirectSample\ExtDirectSample\bin\Ext.Direct.pdb
+D:\Real\ExtDirectSample\ExtDirectSample\obj\Debug\ResolveAssemblyReference.cache
+D:\Real\ExtDirectSample\ExtDirectSample\obj\Debug\ExtDirectSample.dll
+D:\Real\ExtDirectSample\ExtDirectSample\obj\Debug\ExtDirectSample.pdb
+D:\Real\ExtDirectSample\ExtDirectSample\bin\System.Data.SQLite.DLL
+D:\Real\ExtDirectSample\ExtDirectSample\bin\System.Data.SQLite.xml

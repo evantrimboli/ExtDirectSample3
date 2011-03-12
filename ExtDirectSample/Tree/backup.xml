@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <node id="root" name="Root">
+    <node id="node1" name="Australia">
+      <node id="node4" name="Brisbane" />
+      <node id="node5" name="Melbourne" />
+      <node id="node6" name="Sydney" />
+    </node>
+    <node id="node2" name="Canada">
+      <node id="node7" name="Ontario">
+      </node>
+      <node id="node8" name="Quebec" />
+      <node id="node9" name="Vancouver" />
+    </node>
+    <node id="node3" name="USA">
+      <node id="node10" name="Los Angeles" />
+      <node id="node11" name="New York" />
+      <node id="node12" name="Texas" />
+    </node>
+  </node>
+</root>

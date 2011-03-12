@@ -1,0 +1,35 @@
+﻿.thumb{
+	background: #dddddd;
+	padding: 3px;
+}
+
+.thumb img{
+	height: 128px;
+	width: 128px;
+}
+
+.thumb-wrap{
+	float: left;
+	margin: 4px;
+	margin-right: 0;
+	padding: 5px;
+}
+
+.thumb-wrap span{
+	display: block;
+	overflow: hidden;
+	text-align: center;
+	font-size: 11px;
+}
+
+.thumb-over{
+    border:1px solid #dddddd;
+	padding: 4px;
+}
+
+.thumb-selected{
+	border:1px solid #99bbe8;
+	background-color: #99bbe8;
+	padding: 4px;
+}
+
